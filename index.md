@@ -1,11 +1,14 @@
 # **Hello, I'm Cole Rindal**
+
+![Here is a Picture of my girlfriend and I in Pacific Beach](PXL_20210514_234824994.MP.jpg)
+
 ## Hobbies :snowboarder:
 - Caring for houseplants
 - 3D Printing
 - Snowboarding/Skiing
 - Playing Video Games
 
-![Here is a Picture of my girlfriend and I in Pacific Beach](PXL_20210514_234824994.MP.jpg)
+![My monstera delisosa houseplant](PXL_20210912_002950666.jpg)
 
 ## School :computer:
 1. In my senior year working on BS in Computer Engineering
@@ -20,7 +23,3 @@
 - [ ] Graduate in Spring 2022
 - [ ] Get a job in Computer Engineering field
 - [ ] :money_with_wings: :moneybag: :money_with_wings:
-
-
-(https://photos.app.goo.gl/k45di6AoCADENinv9)
-![My monstera delisosa houseplant](https://photos.app.goo.gl/xe7ZTvU9RTCSgMqX9)
